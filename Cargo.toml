@@ -1,0 +1,16 @@
+[package]
+name = "mutcrab"
+version = "0.1.2"
+edition = "2024"
+authors = ["Harbby <yezhixinghai@gmail.com>"]
+readme = "README.md"
+repository = "https://github.com/harbby/mutcrab"
+license-file = "LICENSE"
+description = "This is a library written in rust that contains various classic data structures"
+
+[dependencies]
+
+
+[features]
+default = []
+inline-more = []
